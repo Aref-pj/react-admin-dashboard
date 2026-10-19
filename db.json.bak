@@ -1,0 +1,1714 @@
+{
+  "me": {
+    "name": "Aref Pourabbas",
+    "avatar": "/images/users/user1.jpg",
+    "role": "Admin",
+    "email": "arefpourabbas83@gmail.com",
+    "phone": "+98 9152289523",
+    "nationalId": "0921284601",
+    "country": "Iran",
+    "state": "Khorasan Razavi, Mashhad",
+    "residentialAddress": "Mashhad, Torghabeh, Moalem ST, NO.12",
+    "postal": "36725-12680"
+  },
+  "notifications": [
+    {
+      "id": "5544214f3c96",
+      "type": "order",
+      "title": "New order received",
+      "message": "Order #ORD-1048 has been placed by Sarah Johnson.",
+      "time": "2 min ago",
+      "read": false
+    },
+    {
+      "id": "5544214f3c97",
+      "type": "user",
+      "title": "New user joined",
+      "message": "Michael Brown has created a new account.",
+      "time": "18 min ago",
+      "read": false
+    },
+    {
+      "id": "5544214f3c98",
+      "type": "payment",
+      "title": "Payment completed",
+      "message": "Payment of $249.00 for order #ORD-1045 was successful.",
+      "time": "1 hour ago",
+      "read": false
+    },
+    {
+      "id": "5544214f3d02",
+      "type": "order",
+      "title": "Order cancelled",
+      "message": "Order #ORD-1047 was cancelled by the customer before shipping.",
+      "time": "3 hours ago",
+      "read": true
+    },
+    {
+      "id": "5544214f3d03",
+      "type": "warning",
+      "title": "Security alert",
+      "message": "A new login was detected from an unrecognized device in Tehran.",
+      "time": "5 hours ago",
+      "read": true
+    },
+    {
+      "id": "5544214f3d04",
+      "type": "user",
+      "title": "New user joined",
+      "message": "Emily Davis has created a new account using Google sign-in.",
+      "time": "6 hours ago",
+      "read": true
+    },
+    {
+      "id": "5544214f3d05",
+      "type": "payment",
+      "title": "Payout sent",
+      "message": "Your monthly payout of $4,320.50 was transferred to your bank account.",
+      "time": "8 hours ago",
+      "read": true
+    },
+    {
+      "id": "5544214f3c95",
+      "type": "warning",
+      "title": "Low stock alert",
+      "message": "Wireless Headphones are almost out of stock. Only 3 items left.",
+      "time": "2 hours ago",
+      "read": true
+    },
+    {
+      "id": "5544214f3c99",
+      "type": "order",
+      "title": "Order shipped",
+      "message": "Order #ORD-1039 has been shipped successfully.",
+      "time": "4 hours ago",
+      "read": true
+    },
+    {
+      "id": "5544214f3d07",
+      "type": "info",
+      "title": "Maintenance scheduled",
+      "message": "The dashboard will be under maintenance on Sunday from 02:00 to 04:00 UTC.",
+      "time": "10 hours ago",
+      "read": true
+    },
+    {
+      "id": "5544214f3d08",
+      "type": "payment",
+      "title": "Refund processed",
+      "message": "A refund of $89.00 has been processed for order #ORD-1028.",
+      "time": "Yesterday",
+      "read": true
+    },
+    {
+      "id": "5544214f3d00",
+      "type": "info",
+      "title": "System update",
+      "message": "Dashboard analytics have been updated with the latest data.",
+      "time": "Yesterday",
+      "read": true
+    },
+    {
+      "id": "5544214f3d09",
+      "type": "order",
+      "title": "Order delivered",
+      "message": "Order #ORD-1031 has been delivered to the customer.",
+      "time": "2 days ago",
+      "read": true
+    },
+    {
+      "id": "5544214f3d0a",
+      "type": "user",
+      "title": "User promoted",
+      "message": "Daniel Wilson has been promoted to Manager by the admin team.",
+      "time": "Oct 3, 2026",
+      "read": true
+    }
+  ],
+  "month-sale": [
+    {
+      "month": "Jan",
+      "sale": 85000,
+      "id": "J56EEy0C2uk"
+    },
+    {
+      "month": "Feb",
+      "sale": 120000,
+      "id": "ZOoFfiHTpIc"
+    },
+    {
+      "month": "Mar",
+      "sale": 45000,
+      "id": "4ZGnMFmsxto"
+    },
+    {
+      "month": "Apr",
+      "sale": 106000,
+      "id": "_KuK63dZtWo"
+    },
+    {
+      "month": "May",
+      "sale": 90000,
+      "id": "gyeK6X48Cks"
+    },
+    {
+      "month": "Jun",
+      "sale": 112000,
+      "id": "VU3fog5qxjA"
+    },
+    {
+      "month": "Jul",
+      "sale": 65000,
+      "id": "n_pQyXDu1cs"
+    },
+    {
+      "month": "Agu",
+      "sale": 50000,
+      "id": "o-NDeatapl4"
+    },
+    {
+      "month": "Sep",
+      "sale": 30000,
+      "id": "eSoJEPcHW1U"
+    },
+    {
+      "month": "Oct",
+      "sale": 98000,
+      "id": "OfD8n370LFU"
+    },
+    {
+      "month": "Nov",
+      "sale": 45000,
+      "id": "gn3CqYJr4PE"
+    },
+    {
+      "month": "Dec",
+      "sale": 121000,
+      "id": "FguG7O6fMfY"
+    }
+  ],
+  "stats": {
+    "revenue": {
+      "num": 24500,
+      "perc": 12.5
+    },
+    "customers": {
+      "num": 1240,
+      "perc": 8.2
+    },
+    "orders": {
+      "num": 856,
+      "perc": -3.4
+    }
+  },
+  "new-users": [
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c3",
+      "name": "Mohsen",
+      "role": "client",
+      "avatar": "/images/users/user2.jpg"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c4",
+      "name": "Sara",
+      "role": "client",
+      "avatar": "/images/users/user4.jpg"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c5",
+      "name": "Mahdi Hosseini",
+      "role": "client",
+      "avatar": "/images/users/user3.jpg"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c6",
+      "name": "Amin",
+      "role": "seller",
+      "avatar": "/images/users/user5.jpg"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c7",
+      "name": "Babak",
+      "role": "client",
+      "avatar": "/images/users/user7.jpg"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c8",
+      "name": "Kazem Sharifzadeh",
+      "role": "seller",
+      "avatar": "/images/users/user8.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c1",
+      "name": "Aref Pourabbas",
+      "avatar": "/images/users/user1.jpg",
+      "role": "admin",
+      "email": "arefpourabbas83@gmail.com",
+      "phone": "+98 9152289523",
+      "nationalId": "0921284601",
+      "country": "Iran",
+      "state": "Khorasan Razavi, Mashhad",
+      "residentialAddress": "Mashhad, Torghabeh, Moalem ST, NO.12",
+      "postal": "36725-12680",
+      "status": "active",
+      "createdAt": "2024-01-15"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c2",
+      "name": "Mohsen Ahmadi",
+      "avatar": "/images/users/user2.jpg",
+      "role": "client",
+      "email": "mohsen.ahmadi@example.com",
+      "phone": "+98 9123456781",
+      "nationalId": "0921456721",
+      "country": "Iran",
+      "state": "Tehran, Tehran",
+      "residentialAddress": "Tehran, Vanak, South Molla Sadra ST, NO.24",
+      "postal": "1435874210",
+      "status": "active",
+      "createdAt": "2024-03-21"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c3",
+      "name": "Mahdi Hosseini",
+      "avatar": "/images/users/user3.jpg",
+      "role": "client",
+      "email": "mahdi.hosseini@example.com",
+      "phone": "+98 9198765432",
+      "nationalId": "0019283746",
+      "country": "Iran",
+      "state": "Isfahan, Isfahan",
+      "residentialAddress": "Isfahan, Jolfa, Hakim Nezami ST, NO.18",
+      "postal": "8174815632",
+      "status": "inactive",
+      "createdAt": "2024-04-09"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c4",
+      "name": "Sara Karimi",
+      "avatar": "/images/users/user4.jpg",
+      "role": "client",
+      "email": "sara.karimi@example.com",
+      "phone": "+98 9124567812",
+      "nationalId": "0073458291",
+      "country": "Iran",
+      "state": "Tehran, Tehran",
+      "residentialAddress": "Tehran, Saadat Abad, 24th ST, NO.9",
+      "postal": "1998734215",
+      "status": "active",
+      "createdAt": "2024-05-17"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c5",
+      "name": "Amin Rezaei",
+      "avatar": "/images/users/user5.jpg",
+      "role": "seller",
+      "email": "amin.rezaei@example.com",
+      "phone": "+98 9156723418",
+      "nationalId": "0932178456",
+      "country": "Iran",
+      "state": "Khorasan Razavi, Mashhad",
+      "residentialAddress": "Mashhad, Ahmad Abad, Edalat ST, NO.31",
+      "postal": "9187643210",
+      "status": "active",
+      "createdAt": "2024-06-02"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c6",
+      "name": "Mina Rahimi",
+      "avatar": "/images/users/user6.jpg",
+      "role": "client",
+      "email": "mina.rahimi@example.com",
+      "phone": "+98 9134567823",
+      "nationalId": "4618237950",
+      "country": "Iran",
+      "state": "Fars, Shiraz",
+      "residentialAddress": "Shiraz, Maali Abad, Qasr Dasht ST, NO.15",
+      "postal": "7185612390",
+      "status": "inactive",
+      "createdAt": "2024-07-14"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c7",
+      "name": "Babak Mirzayi",
+      "avatar": "/images/users/user7.jpg",
+      "role": "client",
+      "email": "babak.mirzayi@example.com",
+      "phone": "+98 9127894536",
+      "nationalId": "0089213475",
+      "country": "Iran",
+      "state": "Alborz, Karaj",
+      "residentialAddress": "Karaj, Gohardasht, 6th ST, NO.42",
+      "postal": "3146798210",
+      "status": "active",
+      "createdAt": "2024-08-06"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c8",
+      "name": "Kazem Sharifzadeh",
+      "avatar": "/images/users/user8.jpg",
+      "role": "seller",
+      "email": "kazem.sharifzadeh@example.com",
+      "phone": "+98 9145632789",
+      "nationalId": "0491837265",
+      "country": "Iran",
+      "state": "East Azerbaijan, Tabriz",
+      "residentialAddress": "Tabriz, Valiasr, Golestan ST, NO.27",
+      "postal": "5167834210",
+      "status": "active",
+      "createdAt": "2024-08-28"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c9",
+      "name": "Saeed Hosseini",
+      "avatar": "/images/users/user9.jpg",
+      "role": "client",
+      "email": "saeed.hosseini@example.com",
+      "phone": "+98 9182345671",
+      "nationalId": "0057382914",
+      "country": "Iran",
+      "state": "Kurdistan, Sanandaj",
+      "residentialAddress": "Sanandaj, Pasdaran, Bahar ST, NO.11",
+      "postal": "6617843250",
+      "status": "active",
+      "createdAt": "2024-09-19"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c10",
+      "name": "Amir Hosseini",
+      "avatar": "/images/users/user10.jpg",
+      "role": "seller",
+      "email": "amir.hosseini@example.com",
+      "phone": "+98 9113456728",
+      "nationalId": "2145637890",
+      "country": "Iran",
+      "state": "Mazandaran, Sari",
+      "residentialAddress": "Sari, Farhang, Beheshti ST, NO.8",
+      "postal": "4816732190",
+      "status": "active",
+      "createdAt": "2024-10-03"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c11",
+      "name": "Neda Mohammadi",
+      "avatar": "/images/users/user11.jpg",
+      "role": "client",
+      "email": "neda.mohammadi@example.com",
+      "phone": "+98 9137824516",
+      "nationalId": "2284519367",
+      "country": "Iran",
+      "state": "Fars, Shiraz",
+      "residentialAddress": "Shiraz, Zand, Hafez ST, NO.21",
+      "postal": "7135642891",
+      "status": "active",
+      "createdAt": "2024-10-26"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c12",
+      "name": "Reza Ebrahimi",
+      "avatar": "/images/users/user12.jpg",
+      "role": "client",
+      "email": "reza.ebrahimi@example.com",
+      "phone": "+98 9164527831",
+      "nationalId": "0732189456",
+      "country": "Iran",
+      "state": "Khorasan Razavi, Mashhad",
+      "residentialAddress": "Mashhad, Sajjad, Bahar ST, NO.34",
+      "postal": "9187654321",
+      "status": "active",
+      "createdAt": "2024-11-12"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c13",
+      "name": "Maryam Hashemi",
+      "avatar": "/images/users/user13.jpg",
+      "role": "seller",
+      "email": "maryam.hashemi@example.com",
+      "phone": "+98 9126384752",
+      "nationalId": "3125678490",
+      "country": "Iran",
+      "state": "Tehran, Tehran",
+      "residentialAddress": "Tehran, Niavaran, Bahonar ST, NO.16",
+      "postal": "1956843217",
+      "status": "active",
+      "createdAt": "2024-12-05"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c14",
+      "name": "Amirhossein Kazemi",
+      "avatar": "/images/users/user14.jpg",
+      "role": "client",
+      "email": "amirhossein.kazemi@example.com",
+      "phone": "+98 9153487261",
+      "nationalId": "0927364518",
+      "country": "Iran",
+      "state": "Khorasan Razavi, Mashhad",
+      "residentialAddress": "Mashhad, Ferdowsi, Danesh ST, NO.19",
+      "postal": "9178654320",
+      "status": "active",
+      "createdAt": "2025-01-18"
+    },
+    {
+      "id": "bcbf6e0f-6f3e-461f-b119-fe0895a748c15",
+      "name": "Farhad Ahmadi",
+      "avatar": "/images/users/user15.jpg",
+      "role": "client",
+      "email": "farhad.ahmadi@example.com",
+      "phone": "+98 9176254381",
+      "nationalId": "0064291837",
+      "country": "Iran",
+      "state": "Gilan, Rasht",
+      "residentialAddress": "Rasht, Golsar, Shahrivar ST, NO.7",
+      "postal": "4147632180",
+      "status": "inactive",
+      "createdAt": "2025-02-09"
+    }
+  ],
+"orders": [
+    {
+      "id": "ORD-1041",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c14",
+      "items": [
+        {
+          "productId": "PRD-1015",
+          "name": "Soundcore Liberty 5",
+          "image": "/images/products/soundcore-liberty-5.jpg",
+          "quantity": 1,
+          "unitPrice": 129,
+          "discount": 0
+        }
+      ],
+      "subtotal": 129,
+      "discount": 0,
+      "shipping": 0,
+      "total": 129,
+      "status": "delivered",
+      "paymentStatus": "approved",
+      "shippingAddress": {
+        "fullName": "Amirhossein Kazemi",
+        "phone": "+98 9120000000",
+        "country": "Iran",
+        "state": "Tehran",
+        "city": "Tehran",
+        "address": "Example Street 12",
+        "postalCode": "1234567890"
+      },
+      "trackingNumber": "TRK-100041",
+      "createdAt": "2025-06-08T20:11:00",
+      "updatedAt": "2025-06-08T20:11:00"
+    },
+    {
+      "id": "ORD-1042",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c13",
+      "items": [
+        {
+          "productId": "PRD-1008",
+          "name": "Galaxy S25 Ultra",
+          "image": "/images/products/galaxy-s25-ultra.jpg",
+          "quantity": 1,
+          "unitPrice": 420,
+          "discount": 0
+        }
+      ],
+      "subtotal": 420,
+      "discount": 0,
+      "shipping": 0,
+      "total": 420,
+      "status": "processing",
+      "paymentStatus": "approved",
+      "shippingAddress": {
+        "fullName": "Maryam Hashemi",
+        "phone": "+98 9120000000",
+        "country": "Iran",
+        "state": "Tehran",
+        "city": "Tehran",
+        "address": "Example Street 12",
+        "postalCode": "1234567890"
+      },
+      "trackingNumber": null,
+      "createdAt": "2025-06-09T14:18:00",
+      "updatedAt": "2025-06-09T14:18:00"
+    },
+    {
+      "id": "ORD-1043",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c10",
+      "items": [
+        {
+          "productId": "PRD-1017",
+          "name": "USB-C Hub 8-in-1",
+          "image": "/images/products/ugreen-usbc-hub.jpg",
+          "quantity": 1,
+          "unitPrice": 175,
+          "discount": 0
+        }
+      ],
+      "subtotal": 175,
+      "discount": 0,
+      "shipping": 0,
+      "total": 175,
+      "status": "shipped",
+      "paymentStatus": "approved",
+      "shippingAddress": {
+        "fullName": "Amir Hosseini",
+        "phone": "+98 9120000000",
+        "country": "Iran",
+        "state": "Tehran",
+        "city": "Tehran",
+        "address": "Example Street 12",
+        "postalCode": "1234567890"
+      },
+      "trackingNumber": "TRK-100043",
+      "createdAt": "2025-06-10T16:42:00",
+      "updatedAt": "2025-06-10T16:42:00"
+    },
+    {
+      "id": "ORD-1044",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c9",
+      "items": [
+        {
+          "productId": "PRD-1016",
+          "name": "Nano Charger 65W",
+          "image": "/images/products/anker-nano-65w.jpg",
+          "quantity": 1,
+          "unitPrice": 89,
+          "discount": 0
+        }
+      ],
+      "subtotal": 89,
+      "discount": 0,
+      "shipping": 0,
+      "total": 89,
+      "status": "delivered",
+      "paymentStatus": "approved",
+      "shippingAddress": {
+        "fullName": "Saeed Hosseini",
+        "phone": "+98 9120000000",
+        "country": "Iran",
+        "state": "Tehran",
+        "city": "Tehran",
+        "address": "Example Street 12",
+        "postalCode": "1234567890"
+      },
+      "trackingNumber": "TRK-100044",
+      "createdAt": "2025-06-10T22:05:00",
+      "updatedAt": "2025-06-10T22:05:00"
+    },
+    {
+      "id": "ORD-1045",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c8",
+      "items": [
+        {
+          "productId": "PRD-1021",
+          "name": "UltraGear 27GP850",
+          "image": "/images/products/lg-ultragear-27gp850.jpg",
+          "quantity": 1,
+          "unitPrice": 520,
+          "discount": 0
+        }
+      ],
+      "subtotal": 520,
+      "discount": 0,
+      "shipping": 0,
+      "total": 520,
+      "status": "cancelled",
+      "paymentStatus": "declined",
+      "shippingAddress": {
+        "fullName": "Kazem Sharifzadeh",
+        "phone": "+98 9120000000",
+        "country": "Iran",
+        "state": "Tehran",
+        "city": "Tehran",
+        "address": "Example Street 12",
+        "postalCode": "1234567890"
+      },
+      "trackingNumber": null,
+      "createdAt": "2025-06-11T19:25:00",
+      "updatedAt": "2025-06-11T19:25:00"
+    },
+    {
+      "id": "ORD-1046",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c5",
+      "items": [
+        {
+          "productId": "PRD-1003",
+          "name": "ROG Zephyrus G14",
+          "image": "/images/products/asus-rog-zephyrus-g14.jpg",
+          "quantity": 1,
+          "unitPrice": 350,
+          "discount": 0
+        }
+      ],
+      "subtotal": 350,
+      "discount": 0,
+      "shipping": 0,
+      "total": 350,
+      "status": "processing",
+      "paymentStatus": "approved",
+      "shippingAddress": {
+        "fullName": "Amin Rezaei",
+        "phone": "+98 9120000000",
+        "country": "Iran",
+        "state": "Tehran",
+        "city": "Tehran",
+        "address": "Example Street 12",
+        "postalCode": "1234567890"
+      },
+      "trackingNumber": null,
+      "createdAt": "2025-06-12T12:30:00",
+      "updatedAt": "2025-06-12T12:30:00"
+    },
+    {
+      "id": "ORD-1047",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c3",
+      "items": [
+        {
+          "productId": "PRD-1002",
+          "name": "MacBook Pro 4 M4",
+          "image": "/images/products/macbook-pro-14-m4.jpg",
+          "quantity": 1,
+          "unitPrice": 120,
+          "discount": 0
+        }
+      ],
+      "subtotal": 120,
+      "discount": 0,
+      "shipping": 0,
+      "total": 120,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "shippingAddress": {
+        "fullName": "Mahdi Hosseini",
+        "phone": "+98 9120000000",
+        "country": "Iran",
+        "state": "Tehran",
+        "city": "Tehran",
+        "address": "Example Street 12",
+        "postalCode": "1234567890"
+      },
+      "trackingNumber": null,
+      "createdAt": "2025-06-12T18:32:00",
+      "updatedAt": "2025-06-12T18:32:00"
+    },
+    {
+      "id": "ORD-1048",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c2",
+      "items": [
+        {
+          "productId": "PRD-1011",
+          "name": "AirPods Pro 3",
+          "image": "/images/products/airpods-pro-3.jpg",
+          "quantity": 1,
+          "unitPrice": 249,
+          "discount": 0
+        }
+      ],
+      "subtotal": 249,
+      "discount": 0,
+      "shipping": 0,
+      "total": 249,
+      "status": "processing",
+      "paymentStatus": "approved",
+      "shippingAddress": {
+        "fullName": "Mohsen Ahmadi",
+        "phone": "+98 9120000000",
+        "country": "Iran",
+        "state": "Tehran",
+        "city": "Tehran",
+        "address": "Example Street 12",
+        "postalCode": "1234567890"
+      },
+      "trackingNumber": null,
+      "createdAt": "2025-06-12T23:47:00",
+      "updatedAt": "2025-06-12T23:47:00"
+    },
+    {
+      "id": "ORD-1049",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c4",
+      "items": [
+        {
+          "productId": "PRD-1018",
+          "name": "MagSafe Charger",
+          "image": "/images/products/magsafe-charger.jpg",
+          "quantity": 2,
+          "unitPrice": 78,
+          "discount": 0
+        }
+      ],
+      "subtotal": 156,
+      "discount": 0,
+      "shipping": 0,
+      "total": 156,
+      "status": "delivered",
+      "paymentStatus": "approved",
+      "shippingAddress": {
+        "fullName": "Sara Karimi",
+        "phone": "+98 9120000000",
+        "country": "Iran",
+        "state": "Tehran",
+        "city": "Tehran",
+        "address": "Example Street 12",
+        "postalCode": "1234567890"
+      },
+      "trackingNumber": "TRK-100049",
+      "createdAt": "2025-06-13T09:20:00",
+      "updatedAt": "2025-06-13T09:20:00"
+    },
+    {
+      "id": "ORD-1050",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c6",
+      "items": [
+        {
+          "productId": "PRD-1009",
+          "name": "Galaxy A56",
+          "image": "/images/products/galaxy-a56.jpg",
+          "quantity": 1,
+          "unitPrice": 499,
+          "discount": 0
+        }
+      ],
+      "subtotal": 499,
+      "discount": 0,
+      "shipping": 0,
+      "total": 499,
+      "status": "shipped",
+      "paymentStatus": "approved",
+      "shippingAddress": {
+        "fullName": "Mina Rahimi",
+        "phone": "+98 9120000000",
+        "country": "Iran",
+        "state": "Tehran",
+        "city": "Tehran",
+        "address": "Example Street 12",
+        "postalCode": "1234567890"
+      },
+      "trackingNumber": "TRK-100050",
+      "createdAt": "2025-06-13T11:05:00",
+      "updatedAt": "2025-06-13T11:05:00"
+    },
+    {
+      "id": "ORD-1051",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c7",
+      "items": [
+        {
+          "productId": "PRD-1019",
+          "name": "Power Bank 20000mAh",
+          "image": "/images/products/anker-power-bank-20000.jpg",
+          "quantity": 1,
+          "unitPrice": 79,
+          "discount": 0
+        }
+      ],
+      "subtotal": 79,
+      "discount": 0,
+      "shipping": 0,
+      "total": 79,
+      "status": "processing",
+      "paymentStatus": "approved",
+      "shippingAddress": {
+        "fullName": "Babak Mirzayi",
+        "phone": "+98 9120000000",
+        "country": "Iran",
+        "state": "Tehran",
+        "city": "Tehran",
+        "address": "Example Street 12",
+        "postalCode": "1234567890"
+      },
+      "trackingNumber": null,
+      "createdAt": "2025-06-14T10:15:00",
+      "updatedAt": "2025-06-14T10:15:00"
+    },
+    {
+      "id": "ORD-1052",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c11",
+      "items": [
+        {
+          "productId": "PRD-1007",
+          "name": "iPhone 17",
+          "image": "/images/products/iphone-17.jpg",
+          "quantity": 1,
+          "unitPrice": 799,
+          "discount": 0
+        }
+      ],
+      "subtotal": 799,
+      "discount": 0,
+      "shipping": 0,
+      "total": 799,
+      "status": "pending",
+      "paymentStatus": "pending",
+      "shippingAddress": {
+        "fullName": "Neda Mohammadi",
+        "phone": "+98 9120000000",
+        "country": "Iran",
+        "state": "Tehran",
+        "city": "Tehran",
+        "address": "Example Street 12",
+        "postalCode": "1234567890"
+      },
+      "trackingNumber": null,
+      "createdAt": "2025-06-14T14:45:00",
+      "updatedAt": "2025-06-14T14:45:00"
+    },
+    {
+      "id": "ORD-1053",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c12",
+      "items": [
+        {
+          "productId": "PRD-1025",
+          "name": "UltraSharp U2723QE",
+          "image": "/images/products/dell-ultrasharp-u2723qe.jpg",
+          "quantity": 1,
+          "unitPrice": 549,
+          "discount": 0
+        }
+      ],
+      "subtotal": 549,
+      "discount": 0,
+      "shipping": 0,
+      "total": 549,
+      "status": "cancelled",
+      "paymentStatus": "refunded",
+      "shippingAddress": {
+        "fullName": "Reza Ebrahimi",
+        "phone": "+98 9120000000",
+        "country": "Iran",
+        "state": "Tehran",
+        "city": "Tehran",
+        "address": "Example Street 12",
+        "postalCode": "1234567890"
+      },
+      "trackingNumber": null,
+      "createdAt": "2025-06-15T08:10:00",
+      "updatedAt": "2025-06-15T08:10:00"
+    },
+    {
+      "id": "ORD-1054",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c15",
+      "items": [
+        {
+          "productId": "PRD-1012",
+          "name": "WH-1000XM6",
+          "image": "/images/products/sony-wh1000xm6.jpg",
+          "quantity": 1,
+          "unitPrice": 399,
+          "discount": 0
+        }
+      ],
+      "subtotal": 399,
+      "discount": 0,
+      "shipping": 0,
+      "total": 399,
+      "status": "shipped",
+      "paymentStatus": "approved",
+      "shippingAddress": {
+        "fullName": "Farhad Ahmadi",
+        "phone": "+98 9120000000",
+        "country": "Iran",
+        "state": "Tehran",
+        "city": "Tehran",
+        "address": "Example Street 12",
+        "postalCode": "1234567890"
+      },
+      "trackingNumber": "TRK-100054",
+      "createdAt": "2025-06-15T13:35:00",
+      "updatedAt": "2025-06-15T13:35:00"
+    },
+    {
+      "id": "ORD-1055",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c2",
+      "items": [
+        {
+          "productId": "PRD-1016",
+          "name": "Nano Charger 65W",
+          "image": "/images/products/anker-nano-65w.jpg",
+          "quantity": 1,
+          "unitPrice": 39,
+          "discount": 0
+        }
+      ],
+      "subtotal": 39,
+      "discount": 0,
+      "shipping": 0,
+      "total": 39,
+      "status": "processing",
+      "paymentStatus": "approved",
+      "shippingAddress": {
+        "fullName": "Mohsen Ahmadi",
+        "phone": "+98 9120000000",
+        "country": "Iran",
+        "state": "Tehran",
+        "city": "Tehran",
+        "address": "Example Street 12",
+        "postalCode": "1234567890"
+      },
+      "trackingNumber": null,
+      "createdAt": "2025-06-16T16:00:00",
+      "updatedAt": "2025-06-16T16:00:00"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "trx-1001",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c2",
+      "customer": "Mohsen Ahmadi",
+      "avatar": "/images/users/user2.jpg",
+      "orderId": "ORD-1048",
+      "amount": 249,
+      "status": "approved",
+      "paymentMethod": "credit_card",
+      "transactionReference": "PAY-783201",
+      "createdAt": "2025-06-12T23:47:00"
+    },
+    {
+      "id": "trx-1002",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c3",
+      "customer": "Mahdi Hosseini",
+      "avatar": "/images/users/user3.jpg",
+      "orderId": "ORD-1047",
+      "amount": 120,
+      "status": "pending",
+      "paymentMethod": "paypal",
+      "transactionReference": "PAY-783202",
+      "createdAt": "2025-06-12T18:32:00"
+    },
+    {
+      "id": "trx-1003",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c5",
+      "customer": "Amin Rezaei",
+      "avatar": "/images/users/user5.jpg",
+      "orderId": "ORD-1046",
+      "amount": 350,
+      "status": "approved",
+      "paymentMethod": "credit_card",
+      "transactionReference": "PAY-783203",
+      "createdAt": "2025-06-12T12:30:00"
+    },
+    {
+      "id": "trx-1004",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c8",
+      "customer": "Kazem Sharifzadeh",
+      "avatar": "/images/users/user8.jpg",
+      "orderId": "ORD-1045",
+      "amount": 520,
+      "status": "declined",
+      "paymentMethod": "credit_card",
+      "transactionReference": "PAY-783204",
+      "createdAt": "2025-06-11T19:25:00"
+    },
+    {
+      "id": "trx-1005",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c9",
+      "customer": "Saeed Hosseini",
+      "avatar": "/images/users/user9.jpg",
+      "orderId": "ORD-1044",
+      "amount": 89,
+      "status": "approved",
+      "paymentMethod": "paypal",
+      "transactionReference": "PAY-783205",
+      "createdAt": "2025-06-10T22:05:00"
+    },
+    {
+      "id": "trx-1006",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c10",
+      "customer": "Amir Hosseini",
+      "avatar": "/images/users/user10.jpg",
+      "orderId": "ORD-1043",
+      "amount": 175,
+      "status": "approved",
+      "paymentMethod": "credit_card",
+      "transactionReference": "PAY-783206",
+      "createdAt": "2025-06-10T16:42:00"
+    },
+    {
+      "id": "trx-1007",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c13",
+      "customer": "Maryam Hashemi",
+      "avatar": "/images/users/user13.jpg",
+      "orderId": "ORD-1042",
+      "amount": 420,
+      "status": "pending",
+      "paymentMethod": "paypal",
+      "transactionReference": "PAY-783207",
+      "createdAt": "2025-06-09T14:18:00"
+    },
+    {
+      "id": "trx-1008",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c14",
+      "customer": "Amirhossein Kazemi",
+      "avatar": "/images/users/user14.jpg",
+      "orderId": "ORD-1041",
+      "amount": 129,
+      "status": "approved",
+      "paymentMethod": "credit_card",
+      "transactionReference": "PAY-783208",
+      "createdAt": "2025-06-08T20:11:00"
+    },
+    {
+      "id": "trx-1009",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c3",
+      "customer": "Mahdi Hosseini",
+      "avatar": "/images/users/user3.jpg",
+      "orderId": "ORD-1047",
+      "amount": 120,
+      "status": "declined",
+      "paymentMethod": "credit_card",
+      "transactionReference": "PAY-783209",
+      "createdAt": "2025-06-12T18:29:00"
+    },
+    {
+      "id": "trx-1010",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c4",
+      "customer": "Sara Karimi",
+      "avatar": "/images/users/user4.jpg",
+      "orderId": "ORD-1049",
+      "amount": 156,
+      "status": "approved",
+      "paymentMethod": "paypal",
+      "transactionReference": "PAY-783210",
+      "createdAt": "2025-06-13T09:20:00"
+    },
+    {
+      "id": "trx-1011",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c6",
+      "customer": "Mina Rahimi",
+      "avatar": "/images/users/user6.jpg",
+      "orderId": "ORD-1050",
+      "amount": 499,
+      "status": "approved",
+      "paymentMethod": "credit_card",
+      "transactionReference": "PAY-783211",
+      "createdAt": "2025-06-13T11:05:00"
+    },
+    {
+      "id": "trx-1012",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c7",
+      "customer": "Babak Mirzayi",
+      "avatar": "/images/users/user7.jpg",
+      "orderId": "ORD-1051",
+      "amount": 79,
+      "status": "approved",
+      "paymentMethod": "paypal",
+      "transactionReference": "PAY-783212",
+      "createdAt": "2025-06-14T10:15:00"
+    },
+    {
+      "id": "trx-1013",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c11",
+      "customer": "Neda Mohammadi",
+      "avatar": "/images/users/user11.jpg",
+      "orderId": "ORD-1052",
+      "amount": 799,
+      "status": "pending",
+      "paymentMethod": "credit_card",
+      "transactionReference": "PAY-783213",
+      "createdAt": "2025-06-14T14:45:00"
+    },
+    {
+      "id": "trx-1014",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c12",
+      "customer": "Reza Ebrahimi",
+      "avatar": "/images/users/user12.jpg",
+      "orderId": "ORD-1053",
+      "amount": 549,
+      "status": "approved",
+      "paymentMethod": "credit_card",
+      "transactionReference": "PAY-783214",
+      "createdAt": "2025-06-15T08:10:00"
+    },
+    {
+      "id": "trx-1015",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c15",
+      "customer": "Farhad Ahmadi",
+      "avatar": "/images/users/user15.jpg",
+      "orderId": "ORD-1054",
+      "amount": 399,
+      "status": "approved",
+      "paymentMethod": "paypal",
+      "transactionReference": "PAY-783215",
+      "createdAt": "2025-06-15T13:30:00"
+    },
+    {
+      "id": "trx-1016",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c2",
+      "customer": "Mohsen Ahmadi",
+      "avatar": "/images/users/user2.jpg",
+      "orderId": "ORD-1055",
+      "amount": 39,
+      "status": "declined",
+      "paymentMethod": "credit_card",
+      "transactionReference": "PAY-783216",
+      "createdAt": "2025-06-16T16:00:00"
+    },
+    {
+      "id": "trx-1017",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c4",
+      "customer": "Sara Karimi",
+      "avatar": "/images/users/user4.jpg",
+      "orderId": "ORD-1049",
+      "amount": 156,
+      "status": "declined",
+      "paymentMethod": "credit_card",
+      "transactionReference": "PAY-783217",
+      "createdAt": "2025-06-13T09:15:00"
+    },
+    {
+      "id": "trx-1018",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c7",
+      "customer": "Babak Mirzayi",
+      "avatar": "/images/users/user7.jpg",
+      "orderId": "ORD-1051",
+      "amount": 79,
+      "status": "declined",
+      "paymentMethod": "credit_card",
+      "transactionReference": "PAY-783218",
+      "createdAt": "2025-06-14T10:10:00"
+    },
+    {
+      "id": "trx-1019",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c15",
+      "customer": "Farhad Ahmadi",
+      "avatar": "/images/users/user15.jpg",
+      "orderId": "ORD-1054",
+      "amount": 399,
+      "status": "pending",
+      "paymentMethod": "credit_card",
+      "transactionReference": "PAY-783219",
+      "createdAt": "2025-06-15T13:35:00"
+    },
+    {
+      "id": "trx-1020",
+      "userId": "bcbf6e0f-6f3e-461f-b119-fe0895a748c12",
+      "customer": "Reza Ebrahimi",
+      "avatar": "/images/users/user12.jpg",
+      "orderId": "ORD-1053",
+      "amount": 549,
+      "status": "approved",
+      "paymentMethod": "credit_card",
+      "transactionReference": "PAY-783220",
+      "createdAt": "2025-06-16T09:00:00"
+    }
+  ],
+  "categories": [
+    {
+      "id": "CAT-01",
+      "name": "Laptops",
+      "slug": "laptops"
+    },
+    {
+      "id": "CAT-02",
+      "name": "Mobiles",
+      "slug": "mobiles"
+    },
+    {
+      "id": "CAT-03",
+      "name": "Headphones",
+      "slug": "headphones"
+    },
+    {
+      "id": "CAT-04",
+      "name": "Accessories",
+      "slug": "accessories"
+    },
+    {
+      "id": "CAT-05",
+      "name": "Monitors",
+      "slug": "monitors"
+    }
+  ],
+  "brands": [
+    {
+      "id": "BR-01",
+      "name": "AOC",
+      "categoryIds": ["CAT-05"]
+    },
+    {
+      "id": "BR-02",
+      "name": "ASUS",
+      "categoryIds": ["CAT-01"]
+    },
+    {
+      "id": "BR-03",
+      "name": "Anker",
+      "categoryIds": ["CAT-03", "CAT-04"]
+    },
+    {
+      "id": "BR-04",
+      "name": "Apple",
+      "categoryIds": ["CAT-01", "CAT-02", "CAT-03", "CAT-04"]
+    },
+    {
+      "id": "BR-05",
+      "name": "Belkin",
+      "categoryIds": ["CAT-04"]
+    },
+    {
+      "id": "BR-06",
+      "name": "Bose",
+      "categoryIds": ["CAT-03"]
+    },
+    {
+      "id": "BR-07",
+      "name": "Dell",
+      "categoryIds": ["CAT-01", "CAT-05"]
+    },
+    {
+      "id": "BR-08",
+      "name": "Google",
+      "categoryIds": ["CAT-02"]
+    },
+    {
+      "id": "BR-09",
+      "name": "LG",
+      "categoryIds": ["CAT-05"]
+    },
+    {
+      "id": "BR-10",
+      "name": "Lenovo",
+      "categoryIds": ["CAT-01"]
+    },
+    {
+      "id": "BR-11",
+      "name": "Samsung",
+      "categoryIds": ["CAT-02", "CAT-03", "CAT-05"]
+    },
+    {
+      "id": "BR-12",
+      "name": "Sony",
+      "categoryIds": ["CAT-03"]
+    },
+    {
+      "id": "BR-13",
+      "name": "UGREEN",
+      "categoryIds": ["CAT-04"]
+    },
+    {
+      "id": "BR-14",
+      "name": "Xiaomi",
+      "categoryIds": ["CAT-02"]
+    }
+  ],
+  "products": [
+    {
+      "id": "PRD-1001",
+      "name": "MacBook Air M4",
+      "categoryId": "CAT-01",
+      "brandId": "BR-04",
+      "price": 1099,
+      "stock": 24,
+      "soldCount": 186,
+      "monthlySales": [12, 14, 18, 11, 16, 20, 15, 19, 17, 21, 13, 10],
+      "totalRevenue": 204414,
+      "discount": 5,
+      "image": "/images/products/macbook-air-m4.jpg",
+      "status": "active",
+      "description": "Lightweight laptop powered by the Apple M4 chip, featuring a Liquid Retina display and all-day battery life."
+    },
+    {
+      "id": "PRD-1002",
+      "name": "MacBook Pro 4 M4",
+      "categoryId": "CAT-01",
+      "brandId": "BR-04",
+      "price": 1999,
+      "stock": 12,
+      "soldCount": 94,
+      "monthlySales": [5, 7, 8, 6, 9, 10, 8, 7, 9, 11, 7, 7],
+      "totalRevenue": 187906,
+      "discount": 0,
+      "image": "/images/products/macbook-pro-14-m4.jpg",
+      "status": "active",
+      "description": "Powerful 14-inch professional laptop with the Apple M4 chip, a high-resolution display, and advanced performance for demanding workflows."
+    },
+    {
+      "id": "PRD-1003",
+      "name": "ROG Zephyrus G14",
+      "categoryId": "CAT-01",
+      "brandId": "BR-02",
+      "price": 1599,
+      "stock": 8,
+      "soldCount": 72,
+      "monthlySales": [4, 5, 7, 6, 5, 8, 7, 6, 8, 6, 5, 5],
+      "totalRevenue": 115128,
+      "discount": 10,
+      "image": "/images/products/asus-rog-zephyrus-g14.jpg",
+      "status": "active",
+      "description": "Compact gaming laptop with powerful graphics, a high-refresh-rate display, and efficient cooling for gaming and creative work."
+    },
+    {
+      "id": "PRD-1004",
+      "name": "XPS 16",
+      "categoryId": "CAT-01",
+      "brandId": "BR-07",
+      "price": 1799,
+      "stock": 15,
+      "soldCount": 68,
+      "monthlySales": [3, 4, 6, 5, 4, 7, 6, 5, 7, 8, 6, 7],
+      "totalRevenue": 122332,
+      "discount": 8,
+      "image": "/images/products/dell-xps-16.jpg",
+      "status": "active",
+      "description": "Premium laptop featuring a vibrant display, powerful processing, and a sleek design for professional productivity."
+    },
+    {
+      "id": "PRD-1005",
+      "name": "ThinkPad X1 Carbon",
+      "categoryId": "CAT-01",
+      "brandId": "BR-10",
+      "price": 1649,
+      "stock": 19,
+      "soldCount": 81,
+      "monthlySales": [5, 6, 7, 5, 6, 8, 7, 6, 7, 9, 7, 8],
+      "totalRevenue": 133569,
+      "discount": 5,
+      "image": "/images/products/thinkpad-x1-carbon.jpg",
+      "status": "active",
+      "description": "Business laptop with a lightweight carbon-fiber design, reliable performance, and advanced security features for professionals."
+    },
+    {
+      "id": "PRD-1006",
+      "name": "iPhone 17 Pro",
+      "categoryId": "CAT-02",
+      "brandId": "BR-04",
+      "price": 1099,
+      "stock": 35,
+      "soldCount": 248,
+      "monthlySales": [16, 18, 21, 17, 19, 24, 20, 22, 25, 28, 19, 19],
+      "totalRevenue": 272552,
+      "discount": 0,
+      "image": "/images/products/iphone-17-pro.jpg",
+      "status": "active",
+      "description": "Premium smartphone with an advanced camera system, powerful performance, and a bright display for photography and everyday use."
+    },
+    {
+      "id": "PRD-1007",
+      "name": "iPhone 17",
+      "categoryId": "CAT-02",
+      "brandId": "BR-04",
+      "price": 799,
+      "stock": 42,
+      "soldCount": 312,
+      "monthlySales": [21, 23, 25, 19, 24, 27, 22, 26, 28, 30, 23, 24],
+      "totalRevenue": 249288,
+      "discount": 5,
+      "image": "/images/products/iphone-17.jpg",
+      "status": "active",
+      "description": "Versatile smartphone with a vibrant display, capable cameras, and smooth performance for everyday tasks and entertainment."
+    },
+    {
+      "id": "PRD-1008",
+      "name": "Galaxy S25 Ultra",
+      "categoryId": "CAT-02",
+      "brandId": "BR-11",
+      "price": 1299,
+      "stock": 18,
+      "soldCount": 174,
+      "monthlySales": [10, 12, 14, 11, 13, 16, 14, 15, 17, 18, 12, 12],
+      "totalRevenue": 225726,
+      "discount": 8,
+      "image": "/images/products/galaxy-s25-ultra.jpg",
+      "status": "active",
+      "description": "Flagship smartphone featuring a large display, advanced zoom photography, and high-performance hardware for demanding users."
+    },
+    {
+      "id": "PRD-1009",
+      "name": "Galaxy A56",
+      "categoryId": "CAT-02",
+      "brandId": "BR-11",
+      "price": 499,
+      "stock": 56,
+      "soldCount": 421,
+      "monthlySales": [28, 32, 35, 29, 34, 38, 33, 36, 39, 42, 37, 38],
+      "totalRevenue": 210079,
+      "discount": 10,
+      "image": "/images/products/galaxy-a56.jpg",
+      "status": "active",
+      "description": "Mid-range smartphone with a colorful display, versatile cameras, and dependable battery life at an affordable price."
+    },
+    {
+      "id": "PRD-1010",
+      "name": "Pixel 10 Pro",
+      "categoryId": "CAT-02",
+      "brandId": "BR-08",
+      "price": 999,
+      "stock": 21,
+      "soldCount": 126,
+      "monthlySales": [7, 8, 10, 9, 8, 11, 10, 12, 13, 14, 12, 12],
+      "totalRevenue": 125874,
+      "discount": 5,
+      "image": "/images/products/pixel-10-pro.jpg",
+      "status": "active",
+      "description": "Smartphone with Google's camera technology, intelligent software features, and a clean Android experience."
+    },
+    {
+      "id": "PRD-1011",
+      "name": "AirPods Pro 3",
+      "categoryId": "CAT-03",
+      "brandId": "BR-04",
+      "price": 249,
+      "stock": 64,
+      "soldCount": 386,
+      "monthlySales": [24, 27, 30, 26, 29, 33, 31, 34, 36, 38, 39, 39],
+      "totalRevenue": 96114,
+      "discount": 5,
+      "image": "/images/products/airpods-pro-3.jpg",
+      "status": "active",
+      "description": "Wireless earbuds with active noise cancellation, immersive sound, and a compact charging case for everyday listening."
+    },
+    {
+      "id": "PRD-1012",
+      "name": "WH-1000XM6",
+      "categoryId": "CAT-03",
+      "brandId": "BR-12",
+      "price": 399,
+      "stock": 17,
+      "soldCount": 142,
+      "monthlySales": [8, 9, 11, 10, 9, 12, 11, 13, 14, 15, 15, 15],
+      "totalRevenue": 56658,
+      "discount": 10,
+      "image": "/images/products/sony-wh1000xm6.jpg",
+      "status": "active",
+      "description": "Premium over-ear headphones offering advanced noise cancellation, detailed audio, and comfortable long-session listening."
+    },
+    {
+      "id": "PRD-1013",
+      "name": "Galaxy Buds3 Pro",
+      "categoryId": "CAT-03",
+      "brandId": "BR-11",
+      "price": 249,
+      "stock": 29,
+      "soldCount": 198,
+      "monthlySales": [12, 14, 16, 13, 15, 17, 16, 18, 19, 20, 19, 19],
+      "totalRevenue": 49302,
+      "discount": 8,
+      "image": "/images/products/galaxy-buds3-pro.jpg",
+      "status": "active",
+      "description": "Wireless earbuds with rich sound, intelligent noise cancellation, and a comfortable design for music and calls."
+    },
+    {
+      "id": "PRD-1014",
+      "name": "QuietComfort Ultra",
+      "categoryId": "CAT-03",
+      "brandId": "BR-06",
+      "price": 429,
+      "stock": 11,
+      "soldCount": 87,
+      "monthlySales": [4, 5, 7, 6, 5, 8, 7, 8, 9, 10, 9, 9],
+      "totalRevenue": 37323,
+      "discount": 0,
+      "image": "/images/products/bose-quietcomfort-ultra.jpg",
+      "status": "active",
+      "description": "High-end wireless headphones designed for immersive audio, effective noise cancellation, and long-lasting comfort."
+    },
+    {
+      "id": "PRD-1015",
+      "name": "Soundcore Liberty 5",
+      "categoryId": "CAT-03",
+      "brandId": "BR-03",
+      "price": 129,
+      "stock": 73,
+      "soldCount": 294,
+      "monthlySales": [17, 19, 22, 18, 21, 24, 22, 25, 26, 28, 36, 36],
+      "totalRevenue": 37926,
+      "discount": 12,
+      "image": "/images/products/soundcore-liberty-5.jpg",
+      "status": "active",
+      "description": "Compact wireless earbuds delivering detailed sound, noise cancellation, and a portable design for everyday use."
+    },
+    {
+      "id": "PRD-1016",
+      "name": "Nano Charger 65W",
+      "categoryId": "CAT-04",
+      "brandId": "BR-03",
+      "price": 39,
+      "stock": 120,
+      "soldCount": 684,
+      "monthlySales": [42, 46, 51, 44, 49, 55, 52, 57, 59, 62, 83, 84],
+      "totalRevenue": 26676,
+      "discount": 10,
+      "image": "/images/products/anker-nano-65w.jpg",
+      "status": "active",
+      "description": "Compact 65W USB-C charger designed to power compatible laptops, smartphones, and tablets with fast charging."
+    },
+    {
+      "id": "PRD-1017",
+      "name": "USB-C Hub 8-in-1",
+      "categoryId": "CAT-04",
+      "brandId": "BR-13",
+      "price": 59,
+      "stock": 47,
+      "soldCount": 318,
+      "monthlySales": [18, 20, 23, 19, 22, 25, 24, 27, 28, 30, 41, 41],
+      "totalRevenue": 18762,
+      "discount": 5,
+      "image": "/images/products/ugreen-usbc-hub.jpg",
+      "status": "active",
+      "description": "Versatile USB-C hub with multiple connectivity options for connecting displays, storage devices, and essential peripherals."
+    },
+    {
+      "id": "PRD-1018",
+      "name": "MagSafe Charger",
+      "categoryId": "CAT-04",
+      "brandId": "BR-04",
+      "price": 39,
+      "stock": 88,
+      "soldCount": 512,
+      "monthlySales": [31, 34, 38, 32, 36, 40, 39, 42, 44, 46, 65, 65],
+      "totalRevenue": 19968,
+      "discount": 0,
+      "image": "/images/products/magsafe-charger.jpg",
+      "status": "active",
+      "description": "Magnetic wireless charger designed for compatible smartphones, offering convenient charging in a compact form."
+    },
+    {
+      "id": "PRD-1019",
+      "name": "Power Bank 20000mAh",
+      "categoryId": "CAT-04",
+      "brandId": "BR-03",
+      "price": 79,
+      "stock": 39,
+      "soldCount": 267,
+      "monthlySales": [15, 17, 19, 16, 18, 21, 20, 22, 23, 25, 35, 36],
+      "totalRevenue": 21093,
+      "discount": 15,
+      "image": "/images/products/anker-power-bank-20000.jpg",
+      "status": "active",
+      "description": "High-capacity 20,000mAh power bank that keeps compatible phones and other portable devices charged while traveling."
+    },
+    {
+      "id": "PRD-1020",
+      "name": "BoostCharge 3-in-1",
+      "categoryId": "CAT-04",
+      "brandId": "BR-05",
+      "price": 99,
+      "stock": 26,
+      "soldCount": 154,
+      "monthlySales": [8, 9, 11, 9, 10, 12, 11, 13, 14, 15, 21, 21],
+      "totalRevenue": 15246,
+      "discount": 5,
+      "image": "/images/products/belkin-boostcharge-3in1.jpg",
+      "status": "active",
+      "description": "Convenient 3-in-1 wireless charging station designed to charge compatible devices together while keeping your desk organized."
+    },
+    {
+      "id": "PRD-1021",
+      "name": "UltraGear 27GP850",
+      "categoryId": "CAT-05",
+      "brandId": "BR-09",
+      "price": 349,
+      "stock": 14,
+      "soldCount": 96,
+      "monthlySales": [5, 6, 8, 7, 6, 9, 8, 9, 10, 11, 8, 9],
+      "totalRevenue": 33504,
+      "discount": 10,
+      "image": "/images/products/lg-ultragear-27gp850.jpg",
+      "status": "active",
+      "description": "Gaming monitor with a high refresh rate, sharp QHD resolution, and smooth visuals for competitive gaming and entertainment."
+    },
+    {
+      "id": "PRD-1022",
+      "name": "UltraFine 32UN880",
+      "categoryId": "CAT-05",
+      "brandId": "BR-09",
+      "price": 599,
+      "stock": 9,
+      "soldCount": 61,
+      "monthlySales": [3, 4, 5, 4, 4, 6, 5, 6, 7, 7, 5, 5],
+      "totalRevenue": 36539,
+      "discount": 5,
+      "image": "/images/products/lg-ultrafine-32un880.jpg",
+      "status": "active",
+      "description": "Ergonomic 4K monitor with a detailed display and adjustable stand, ideal for productivity, creative work, and home offices."
+    },
+    {
+      "id": "PRD-1023",
+      "name": "Odyssey G5 32-inch",
+      "categoryId": "CAT-05",
+      "brandId": "BR-11",
+      "price": 329,
+      "stock": 22,
+      "soldCount": 118,
+      "monthlySales": [6, 7, 9, 8, 7, 10, 9, 11, 12, 13, 13, 13],
+      "totalRevenue": 38822,
+      "discount": 12,
+      "image": "/images/products/samsung-odyssey-g5.jpg",
+      "status": "active",
+      "description": "Large curved gaming monitor featuring immersive visuals, a high refresh rate, and smooth gameplay for entertainment."
+    },
+    {
+      "id": "PRD-1024",
+      "name": "AGON Q27G3XMN",
+      "categoryId": "CAT-05",
+      "brandId": "BR-01",
+      "price": 279,
+      "stock": 31,
+      "soldCount": 103,
+      "monthlySales": [5, 6, 7, 6, 7, 8, 7, 9, 10, 11, 13, 14],
+      "totalRevenue": 28737,
+      "discount": 8,
+      "image": "/images/products/aoc-agon-q27g3xmn.jpg",
+      "status": "active",
+      "description": "QHD gaming monitor with vibrant colors, responsive performance, and smooth motion for gaming and everyday computing."
+    },
+    {
+      "id": "PRD-1025",
+      "name": "UltraSharp U2723QE",
+      "categoryId": "CAT-05",
+      "brandId": "BR-07",
+      "price": 549,
+      "stock": 16,
+      "soldCount": 84,
+      "monthlySales": [4, 5, 6, 5, 6, 7, 6, 8, 9, 10, 9, 9],
+      "totalRevenue": 46116,
+      "discount": 5,
+      "image": "/images/products/dell-ultrasharp-u2723qe.jpg",
+      "status": "active",
+      "description": "Professional 4K monitor delivering precise detail, accurate colors, and extensive connectivity for office and creative workflows."
+    },
+    {
+      "id": "PRD-1026",
+      "name": "Asus ROG Strix Scar 18",
+      "categoryId": "CAT-01",
+      "brandId": "BR-02",
+      "price": 1859,
+      "stock": 22,
+      "soldCount": 35,
+      "monthlySales": [2, 3, 4, 0, 1, 5, 3, 5, 9, 3, 1, 7],
+      "totalRevenue": 187906,
+      "discount": 0,
+      "image": "/images/products/asus-rog-strix.jpg",
+      "status": "active",
+      "description": "ASUS ROG Strix SCAR 18 (2025) Gaming Laptop, 18” ROG Nebula HDR 16:10 2.5K 240Hz/3ms, NVIDIA GeForce RTX 5090, Intel Core Ultra 9 275HX, 32GB DDR5, 2TB PCIe..."
+    },
+    {
+      "id": "PRD-1027",
+      "name": "Lenovo LOQ Gaming",
+      "categoryId": "CAT-01",
+      "brandId": "BR-10",
+      "price": 1399.99,
+      "stock": 32,
+      "soldCount": 187,
+      "monthlySales": [12, 8, 7, 10, 7, 8, 7, 13, 6, 9, 4, 8],
+      "totalRevenue": 251360,
+      "discount": 0,
+      "image": "/images/products/lenovo-loq.jpg",
+      "status": "archived",
+      "description": " Lenovo LOQ Gaming Laptop, GeForce RTX 4050, AMD Ryzen 5 7235HS Processor15.6 144Hz FHD Display, 16GB DDR5, 512GB SSD, Wi-Fi 6, Ethernet, USB-C, HDMI, Backlit Keyboard, Windows 11 Home "
+    },
+    {
+      "id": "PRD-1028",
+      "name": "Xiaomi 17 Ultra AI 5G",
+      "categoryId": "CAT-02",
+      "brandId": "BR-14",
+      "price": 1216,
+      "stock": 50,
+      "soldCount": 0,
+      "monthlySales": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "totalRevenue": 0,
+      "discount": 0,
+      "image": "/images/products/xiaomi-17-ultra.jpg",
+      "status": "draft",
+      "description": "XIAOMI 17 Ultra Ai 5G (Compatible with Tmobile Mint Tello & Global) (512GB + 16GB) NFC Global ROM Unlocked 200MP Triple Pro Leica Cam eSIM 6.9 144Mhz Model 25128PNA1C Liberado (Starlit Green) "
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+:root {
+    /* Brand */
+    --ui-primary: #465fff;
+    --ui-secondary: #6833e4;
+
+    /* Backgrounds */
+    --ui-background: #F8FAFC;
+    --ui-surface: #fbfbff;
+    --ui-surface-hover: #e9edf2;
+    --ui-surface-active: #dce1e6;
+
+    /* Text */
+    --ui-text: #0F172A;
+    --ui-text-secondary: #3d4b60;
+    --ui-text-muted: #64748B;
+    --ui-text-disabled: #94A3B8;
+
+    /* Border */
+    --ui-border: #dbe1e8;
+    --ui-secondary-border: #e4e7ec;
+
+    /* Status */
+    --ui-success: #127737;
+    --ui-warning: #F59E0B;
+    --ui-danger: #dc2430;
+    --ui-info: #0891B2;
+}
+
+.dark {
+    /* Brand */
+    --ui-primary: #465fff;
+    --ui-secondary: #6833e4;
+
+    /* Backgrounds */
+    --ui-background: #020817;
+    --ui-surface: #0F172A;
+    --ui-surface-hover: #1E293B;
+    --ui-surface-active: #131b27;
+
+    /* Text */
+    --ui-text: #F8FAFC;
+    --ui-text-secondary: #CBD5E1;
+    --ui-text-muted: #94A3B8;
+    --ui-text-disabled: #64748B;
+
+    /* Border */
+    --ui-border: #172334;
+
+    /* Status */
+    --ui-success: #22C55E;
+    --ui-warning: #FBBF24;
+    --ui-danger: #EF4444;
+    --ui-info: #06B6D4;
+}

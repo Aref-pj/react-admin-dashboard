@@ -1,0 +1,26 @@
+@keyframes loading-bar {
+  0% {
+    left: 0;
+    width: 0;
+  }
+
+  25% {
+    left: 0;
+    width: 25%;
+  }
+
+  50% {
+    left: 25%;
+    width: 50%;
+  }
+
+  75% {
+    left: 75%;
+    width: 25%;
+  }
+
+  100% {
+    left: 100%;
+    width: 0;
+  }
+}

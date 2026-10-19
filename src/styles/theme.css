@@ -1,0 +1,26 @@
+@theme inline {
+    /* Colors */
+    --color-c-primary: var(--ui-primary);
+    --color-c-secondary: var(--ui-secondary);
+
+    --color-c-background: var(--ui-background);
+    --color-c-surface: var(--ui-surface);
+    --color-c-surface-hover: var(--ui-surface-hover);
+    --color-c-surface-active: var(--ui-surface-active);
+
+    --color-c-text: var(--ui-text);
+    --color-c-text-secondary: var(--ui-text-secondary);
+    --color-c-text-muted: var(--ui-text-muted);
+    --color-c-text-disabled: var(--ui-text-disabled);
+
+    --color-c-border: var(--ui-border);
+
+    --color-c-success: var(--ui-success);
+    --color-c-warning: var(--ui-warning);
+    --color-c-danger: var(--ui-danger);
+    --color-c-info: var(--ui-info);
+
+    /* Fonts */
+    --font-vazir: "Vazirmatn", sans-serif;
+    --font-manrope: "Manrope", sans-serif;
+}
