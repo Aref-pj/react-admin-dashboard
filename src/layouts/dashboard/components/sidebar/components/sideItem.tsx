@@ -24,7 +24,7 @@ export default function SideItem({
         `relative flex items-center px-7 py-2 text-c-text-secondary
         transition-colors duration-150 font-normal
          hover:text-c-text-primary
-        ${isActive ? `bg-c-surface-active text-c-text-primary before:absolute before:left-0 
+        ${isActive ? `bg-c-primary/10 text-c-text-primary before:absolute before:left-0 
             before:h-full before:bg-c-primary before:w-1.25` : "hover:bg-c-surface-hover"}
         ${className}`
       }
